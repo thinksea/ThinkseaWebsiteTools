@@ -1,0 +1,44 @@
+﻿@charset "utf-8";
+
+body
+{
+	color: #000000;
+	background-color: #e9effc;
+	margin: 0px;
+	padding:0px;
+	font-size: 12px;
+	font-family: Arial, 宋体;
+}
+th{
+    white-space: nowrap;
+    font-weight: normal;
+    text-align: center;
+	height: 25px;
+    font-size: 12px;
+	font-family: Arial, 宋体;
+}
+td
+{
+	font-size: 12px;
+	font-family: Arial, 宋体;
+}
+A
+{
+    font-size: 12px;
+	font-family: Arial, 宋体;
+}
+A:link
+{
+	color: #3333aa;
+	text-decoration: none;
+}
+A:visited
+{
+	color: #3333aa;
+	text-decoration: none;
+}
+A:hover
+{
+	color: #ff0000;
+	text-decoration: underline;
+}

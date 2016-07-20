@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FileTypeIcons xmlns="http://tempuri.org/FileTypeIcons.xsd" RootSrc="/aspnet_client/filebrowser/" DefaultFileIcon="default.gif"
+	DefaultFolderIcon="folder.gif">
+	<FileTypeIcon ExtensionName="323" IconFile="default.gif" FileType="H.323 Internet 电话技术"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="386" IconFile="default.gif" FileType="虚拟设备驱动程序"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="ACA" IconFile="default.gif" FileType="Microsoft Agent Character File (HTTP format)"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="ACF" IconFile="default.gif" FileType="Microsoft Agent Character File (HTTP format)"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="ACG" IconFile="default.gif" FileType="Microsoft Agent 预览文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="ACL" IconFile="default.gif" FileType="自动更正列表文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="ACS" IconFile="default.gif" FileType="Microsoft Agent Character File"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="ACW" IconFile="default.gif" FileType="辅助功能向导设置"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="ADE" IconFile="default.gif" FileType="Microsoft Access 项目扩展"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="ADN" IconFile="default.gif" FileType="Microsoft Access 空白项目模板"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="ADP" IconFile="default.gif" FileType="Microsoft Access 项目"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="AIF" IconFile="winmedia.gif" FileType="AIFF 格式声音"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="AIFC" IconFile="winmedia.gif" FileType="AIFF 格式声音"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="AIFF" IconFile="winmedia.gif" FileType="AIFF 格式声音"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="ANI" IconFile="default.gif" FileType="动画光标"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="ASA" IconFile="default.gif" FileType="活动服务器文档"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="ASD" IconFile="default.gif" FileType="ASF Stream Description File"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="ASF" IconFile="winmedia.gif" FileType="Windows Media 音频/视频文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="ASP" IconFile="asp.gif" FileType="活动服务器文档"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="ASX" IconFile="winmedia.gif" FileType="Windows Media 音频/视频快捷方式"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="AU" IconFile="winmedia.gif" FileType="AU 格式声音"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="AUDIOCD" IconFile="audiocd.gif" FileType="AudioCD"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="AVI" IconFile="winmedia.gif" FileType="视频剪辑"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="AW" IconFile="default.gif" FileType="应答向导文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="BKF" IconFile="default.gif" FileType="Windows 备份文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="BLG" IconFile="default.gif" FileType="性能监视器文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="BMP" IconFile="bmp.gif" FileType="BMP 图像"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="CAT" IconFile="default.gif" FileType="安全编录"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="CDA" IconFile="winmedia.gif" FileType="CD 音频曲目"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="CDF" IconFile="default.gif" FileType="频道文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="CDX" IconFile="default.gif" FileType="活动服务器文档"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="CER" IconFile="default.gif" FileType="安全证书"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="CHK" IconFile="default.gif" FileType="还原了文件碎片"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="CHM" IconFile="chm.gif" FileType="已编译的 HTML 帮助文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="CLP" IconFile="default.gif" FileType="剪贴板剪贴"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="CNF" IconFile="default.gif" FileType="快速拨号"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="COL" IconFile="default.gif" FileType="HTML 帮助文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="CPL" IconFile="default.gif" FileType="控制面板扩展"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="CRL" IconFile="default.gif" FileType="证书吊销列表"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="CRT" IconFile="default.gif" FileType="安全证书"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="CSS" IconFile="css.gif" FileType="级联样式表文档"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="CSV" IconFile="default.gif" FileType="Microsoft Excel 逗号分隔值文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="CUR" IconFile="default.gif" FileType="光标"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="DB" IconFile="default.gif" FileType="数据库文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="DCS" IconFile="default.gif" FileType="数据库内容源"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="DER" IconFile="default.gif" FileType="安全证书"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="DESKLINK" IconFile="default.gif" FileType="DESKLINK 文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="DET" IconFile="default.gif" FileType="Office Data File"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="DIB" IconFile="bmp.gif" FileType="BMP 图像"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="DIC" IconFile="default.gif" FileType="文本文档"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="DIF" IconFile="default.gif" FileType="Microsoft Excel 数据交换格式"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="DOC" IconFile="doc.gif" FileType="Microsoft Word 文档"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="DOCHTML" IconFile="default.gif" FileType="Microsoft Word HTML 文档"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="DOCMHTML" IconFile="default.gif" FileType="DOCMHTML 文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="DOT" IconFile="default.gif" FileType="Microsoft Word 模板"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="DOTHTML" IconFile="default.gif" FileType="Microsoft Word HTML 模板"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="DQY" IconFile="default.gif" FileType="Microsoft Excel ODBC 查询文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="DRV" IconFile="default.gif" FileType="设备驱动程序"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="DSN" IconFile="default.gif" FileType="数据源名称"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="DUN" IconFile="default.gif" FileType="拨号网络文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="DVD" IconFile="audiocd.gif" FileType="DVD"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="ECS" IconFile="default.gif" FileType="Exchange Server 内容源"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="ELM" IconFile="default.gif" FileType="Microsoft Office 主题文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="EMF" IconFile="emf.gif" FileType="EMF 图像"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="EML" IconFile="eml.gif" FileType="Outlook Express 邮件消息"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="EXC" IconFile="default.gif" FileType="文本文档"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="FAD" IconFile="default.gif" FileType="Office 数据文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="FAV" IconFile="default.gif" FileType="FAV 文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="FCS" IconFile="default.gif" FileType="文件共享内容源"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="FFA" IconFile="default.gif" FileType="文件检索索引"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="FFL" IconFile="default.gif" FileType="文件检索索引"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="FFT" IconFile="default.gif" FileType="文件检索索引"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="FFX" IconFile="default.gif" FileType="文件检索索引"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="FON" IconFile="fon.gif" FileType="字体文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="FPDOCLIB" IconFile="default.gif" FileType="Microsoft FrontPage Document Library"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="FPHOMEOP" IconFile="default.gif" FileType="Microsoft FrontPage Home Page Open"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="FPHOMEPG" IconFile="default.gif" FileType="Microsoft FrontPage 主页"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="FPHTML" IconFile="default.gif" FileType="Microsoft FrontPage HTML 文档"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="FPLIST" IconFile="default.gif" FileType="Microsoft FrontPage List"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="FPNOPUB" IconFile="default.gif" FileType="Microsoft FrontPage Dont Publish"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="FPOPEN" IconFile="default.gif" FileType="Microsoft FrontPage 打开文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="FPSURVEY" IconFile="default.gif" FileType="Microsoft FrontPage Survey"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="FPWEB" IconFile="default.gif" FileType="FPWEB 文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="FRG" IconFile="default.gif" FileType="FRG 文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="GIF" IconFile="gif.gif" FileType="GIF 图像"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="GRA" IconFile="default.gif" FileType="Microsoft Graph 图表"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="GRP" IconFile="default.gif" FileType="Microsoft 程序组"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="HLP" IconFile="hlp.gif" FileType="帮助文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="HOL" IconFile="default.gif" FileType="Microsoft Outlook Holidays"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="HT" IconFile="default.gif" FileType="超级终端文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="HTA" IconFile="default.gif" FileType="HTML Application"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="HTC" IconFile="default.gif" FileType="HTC 文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="HTM" IconFile="html.gif" FileType="HTML 文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="HTML" IconFile="html.gif" FileType="HTML 文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="HTT" IconFile="htt.gif" FileType="HyperText 模板"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="HTX" IconFile="default.gif" FileType="用于 Internet 数据库的 HTML 模板"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="ICC" IconFile="default.gif" FileType="ICC 配置文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="ICM" IconFile="default.gif" FileType="ICC 配置文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="ICO" IconFile="default.gif" FileType="图标"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="ICS" IconFile="default.gif" FileType="iCalendar 文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="IDC" IconFile="default.gif" FileType="IDC 文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="III" IconFile="default.gif" FileType="Intel IPhone 兼容"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="INF" IconFile="default.gif" FileType="安装信息"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="INI" IconFile="default.gif" FileType="配置设置"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="INS" IconFile="default.gif" FileType="Internet 通讯设置"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="IQY" IconFile="default.gif" FileType="Microsoft Excel Web 查询文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="ISP" IconFile="default.gif" FileType="Internet 通讯设置"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="ITS" IconFile="default.gif" FileType="Internet Document Set"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="ITSS" IconFile="default.gif" FileType="Microsoft Infotech Storage System File"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="IVF" IconFile="default.gif" FileType="Indeo 视频文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="JFIF" IconFile="jpeg.gif" FileType="JPEG 图像"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="JOB" IconFile="default.gif" FileType="任务对象"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="JOD" IconFile="default.gif" FileType="Microsoft.Jet.OLEDB.4.0"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="JPE" IconFile="jpeg.gif" FileType="JPEG 图像"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="JPEG" IconFile="jpeg.gif" FileType="JPEG 图像"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="JPG" IconFile="jpeg.gif" FileType="JPEG 图像"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="JS" IconFile="js.gif" FileType="JScript Script File"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="JSE" IconFile="js.gif" FileType="JScript Encoded Script File"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="LDB" IconFile="default.gif" FileType="Microsoft Access 记录锁定信息"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="LEX" IconFile="default.gif" FileType="词典文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="LOG" IconFile="default.gif" FileType="文本文档"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="LWV" IconFile="default.gif" FileType="Microsoft Linguistically Enhanced Sound File"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="M1V" IconFile="winmedia.gif" FileType="电影文件(MPEG)"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="M3U" IconFile="winmedia.gif" FileType="M3U 文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MAD" IconFile="default.gif" FileType="Microsoft Access 模块快捷方式"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MAF" IconFile="default.gif" FileType="Microsoft Access 窗体快捷方式"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MAG" IconFile="default.gif" FileType="Microsoft Access 图表快捷方式"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MAM" IconFile="default.gif" FileType="Microsoft Access 宏快捷方式"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MAPIMAIL" IconFile="default.gif" FileType="MAPIMAIL 文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MAQ" IconFile="default.gif" FileType="Microsoft Access 查询快捷方式"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MAR" IconFile="default.gif" FileType="Microsoft Access 报表快捷方式"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MAS" IconFile="default.gif" FileType="Microsoft Access 存储过程快捷方式"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MAT" IconFile="default.gif" FileType="Microsoft Access 表快捷方式"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MAU" IconFile="default.gif" FileType="MAU 文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MAV" IconFile="default.gif" FileType="Microsoft Access 视图快捷方式"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MAW" IconFile="default.gif" FileType="Microsoft Access 数据访问页快捷方式"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MDA" IconFile="default.gif" FileType="Microsoft Access 加载项"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MDB" IconFile="mdb.gif" FileType="Microsoft Access 应用程序"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MDBHTML" IconFile="default.gif" FileType="Microsoft Access HTML 文档"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MDE" IconFile="default.gif" FileType="Microsoft Access MDE 数据库"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MDN" IconFile="default.gif" FileType="Microsoft Access 空白数据库模板"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MDT" IconFile="default.gif" FileType="Microsoft Access 加载项数据"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MDW" IconFile="default.gif" FileType="Microsoft Access 工作组信息"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MDZ" IconFile="default.gif" FileType="Microsoft Access 数据库向导模板"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MGC" IconFile="default.gif" FileType="媒体目录文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MHT" IconFile="default.gif" FileType="MHTML Document"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MHTML" IconFile="default.gif" FileType="MHTML Document"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MID" IconFile="winmedia.gif" FileType="MIDI 序列"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MIDI" IconFile="winmedia.gif" FileType="MIDI 序列"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MML" IconFile="default.gif" FileType="媒体目录文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MMM" IconFile="mmm.gif" FileType="媒体剪辑"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MMW" IconFile="default.gif" FileType="媒体目录文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MP2" IconFile="winmedia.gif" FileType="电影文件(MPEG)"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MP2V" IconFile="winmedia.gif" FileType="电影文件(MPEG)"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MP3" IconFile="winmedia.gif" FileType="MP3 格式声音"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MPA" IconFile="winmedia.gif" FileType="电影文件(MPEG)"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MPE" IconFile="winmedia.gif" FileType="电影文件(MPEG)"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MPEG" IconFile="winmedia.gif" FileType="电影文件(MPEG)"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MPF" IconFile="default.gif" FileType="Media Package 文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MPG" IconFile="winmedia.gif" FileType="电影文件(MPEG)"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MPV2" IconFile="winmedia.gif" FileType="电影文件(MPEG)"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MSC" IconFile="default.gif" FileType="Microsoft 通用管理文档"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MSG" IconFile="default.gif" FileType="Outlook 项目"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MSI" IconFile="msi.gif" FileType="Windows Installer 软件包"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MSP" IconFile="msi.gif" FileType="Windows Installer 修补程序"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MSRCINCIDENT" IconFile="default.gif" FileType="Microsoft 远程访问事件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MSSTYLES" IconFile="theme.gif" FileType="Windows 可视化风格文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="MSWMM" IconFile="mswmm.gif" FileType="Windows Movie Maker 项目"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="NCS" IconFile="default.gif" FileType="Lotus Notes 内容源"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="NFO" IconFile="default.gif" FileType="MSInfo 文档"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="NICK" IconFile="default.gif" FileType="Office 数据文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="NK2" IconFile="default.gif" FileType="Office 数据文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="NMW" IconFile="default.gif" FileType="Microsoft NetMeeting T126 兼容白板文档"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="NWS" IconFile="default.gif" FileType="Outlook Express 新闻消息"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="OBD" IconFile="default.gif" FileType="OBD 文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="OBT" IconFile="default.gif" FileType="OBT 文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="OBZ" IconFile="default.gif" FileType="OBZ 文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="OCX" IconFile="default.gif" FileType="ActiveX 控件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="ODC" IconFile="default.gif" FileType="Microsoft Office 数据连接"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="ODCCUBEFILE" IconFile="default.gif" FileType="ODCCUBEFILE 文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="ODCDATABASEFILE" IconFile="default.gif" FileType="ODCDATABASEFILE 文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="ODCNEWFILE" IconFile="default.gif" FileType="ODCNEWFILE 文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="ODCTABLEFILE" IconFile="default.gif" FileType="ODCTABLEFILE 文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="OFT" IconFile="default.gif" FileType="Outlook 项目模板"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="OPC" IconFile="default.gif" FileType="Microsoft 清理向导文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="OPS" IconFile="default.gif" FileType="Office 10 设置文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="OQY" IconFile="default.gif" FileType="Microsoft Excel OLAP 查询文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="OSS" IconFile="default.gif" FileType="Office 搜索"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="OST" IconFile="default.gif" FileType="Office 数据文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="OTF" IconFile="default.gif" FileType="OpenType 字体文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="P10" IconFile="default.gif" FileType="证书申请"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="P12" IconFile="default.gif" FileType="Personal Information Exchange"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="P7B" IconFile="default.gif" FileType="PKCS #7 证书"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="P7C" IconFile="default.gif" FileType="数字标识文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="P7M" IconFile="default.gif" FileType="PKCS #7 MIME 消息"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="P7R" IconFile="default.gif" FileType="PKCS #7 证书"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="P7S" IconFile="default.gif" FileType="PKCS #7 签名"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="PAB" IconFile="default.gif" FileType="Office 数据文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="PBK" IconFile="default.gif" FileType="拨号电话簿"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="PCB" IconFile="default.gif" FileType="PCB 文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="PCD" IconFile="default.gif" FileType="Photo CD 图像"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="PCX" IconFile="default.gif" FileType="PCX 图像"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="PFM" IconFile="default.gif" FileType="Type 1 字体文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="PFX" IconFile="default.gif" FileType="Personal Information Exchange"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="PIP" IconFile="default.gif" FileType="Microsoft Office 设置文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="PKO" IconFile="default.gif" FileType="公钥安全对象"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="PMA" IconFile="default.gif" FileType="性能监视器文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="PMC" IconFile="default.gif" FileType="性能监视器文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="PML" IconFile="default.gif" FileType="性能监视器文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="PMR" IconFile="default.gif" FileType="性能监视器文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="PMW" IconFile="default.gif" FileType="性能监视器文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="PNG" IconFile="png.gif" FileType="PNG 图像"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="POT" IconFile="default.gif" FileType="Microsoft PowerPoint 模板"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="POTHTML" IconFile="default.gif" FileType="Microsoft PowerPoint HTML 模板"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="PPA" IconFile="default.gif" FileType="Microsoft PowerPoint 加载项"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="PPS" IconFile="default.gif" FileType="Microsoft PowerPoint 幻灯片放映"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="PPT" IconFile="ppt.gif" FileType="Microsoft PowerPoint 演示文稿"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="PPTHTML" IconFile="default.gif" FileType="Microsoft PowerPoint HTML 文档"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="PPTMHTML" IconFile="default.gif" FileType="PPTMHTML 文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="PRF" IconFile="default.gif" FileType="msrating.dll,-3001"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="PST" IconFile="default.gif" FileType="Office 数据文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="PSW" IconFile="default.gif" FileType="Password Backup"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="PWZ" IconFile="default.gif" FileType="Microsoft PowerPoint 向导"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="QDS" IconFile="default.gif" FileType="目录查询"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="RAT" IconFile="default.gif" FileType="msrating.dll,-3000"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="RDP" IconFile="default.gif" FileType="远程桌面连接"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="REG" IconFile="reg.gif" FileType="注册表项"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="RMI" IconFile="winmedia.gif" FileType="MIDI 序列"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="RNK" IconFile="default.gif" FileType="拨号快捷方式"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="RQY" IconFile="default.gif" FileType="Microsoft Excel OLE DB 查询文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="RTF" IconFile="default.gif" FileType="RTF 格式"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="RWZ" IconFile="default.gif" FileType="Office 数据文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="SC2" IconFile="default.gif" FileType="Microsoft Schedule+ 应用程序"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="SCD" IconFile="default.gif" FileType="Microsoft Schedule+ 应用程序"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="SCH" IconFile="default.gif" FileType="Microsoft Schedule+ 应用程序"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="SCP" IconFile="default.gif" FileType="文本文档"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="SCT" IconFile="default.gif" FileType="Windows Script Component"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="SDB" IconFile="default.gif" FileType="Appfix 软件包"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="SHB" IconFile="default.gif" FileType="将快捷方式插入到文档"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="SHS" IconFile="default.gif" FileType="片段对象"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="SHTM" IconFile="default.gif" FileType="HTML 文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="SHTML" IconFile="html.gif" FileType="HTML 文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="SLK" IconFile="default.gif" FileType="Microsoft Excel SLK 数据导入格式"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="SLL" IconFile="default.gif" FileType="SLL 文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="SND" IconFile="winmedia.gif" FileType="AU 格式声音"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="SNP" IconFile="default.gif" FileType="Snapshot 文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="SPC" IconFile="default.gif" FileType="PKCS #7 证书"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="SPL" IconFile="default.gif" FileType="Shockwave Flash Object"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="SST" IconFile="default.gif" FileType="Microsoft 系列证书存储"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="STF" IconFile="default.gif" FileType="Microsoft 安装文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="STL" IconFile="default.gif" FileType="证书信任列表"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="STM" IconFile="default.gif" FileType="HTML 文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="SWF" IconFile="swf.gif" FileType="Shockwave Flash Object"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="SYS" IconFile="default.gif" FileType="系统文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="TCS" IconFile="default.gif" FileType="Tahoe Server 内容源"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="THEME" IconFile="theme.gif" FileType="Windows 主题文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="TIF" IconFile="tif.gif" FileType="TIF 图像"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="TIFF" IconFile="tif.gif" FileType="TIF 图像"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="TTC" IconFile="default.gif" FileType="TrueType Collection 字体文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="TTF" IconFile="default.gif" FileType="TrueType 字体文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="TXT" IconFile="txt.gif" FileType="文本文档"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="UDL" IconFile="default.gif" FileType="Microsoft 数据链接"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="ULS" IconFile="default.gif" FileType="Internet 定位服务"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="URL" IconFile="default.gif" FileType="Internet 快捷方式"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="VBE" IconFile="vbe.gif" FileType="VBScript Encoded Script File"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="VBS" IconFile="vbe.gif" FileType="VBScript Script File"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="VCF" IconFile="default.gif" FileType="vCard 文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="VCS" IconFile="default.gif" FileType="vCalendar 文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="VXD" IconFile="default.gif" FileType="虚拟设备驱动程序"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="WAB" IconFile="default.gif" FileType="数字标识文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="WAV" IconFile="winmedia.gif" FileType="波形声音"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="WAX" IconFile="winmedia.gif" FileType="Windows Media 音频快捷方式"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="WBK" IconFile="default.gif" FileType="Microsoft Word 备份文档"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="WCS" IconFile="default.gif" FileType="Web 站点内容源"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="WEB" IconFile="default.gif" FileType="Office 数据文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="WEBPNP" IconFile="default.gif" FileType="Webpnp"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="WHT" IconFile="default.gif" FileType="Microsoft NetMeeting 旧白板文档"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="WIZ" IconFile="default.gif" FileType="Microsoft Word 向导"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="WIZHTML" IconFile="default.gif" FileType="Microsoft Access HTML 模板"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="WLL" IconFile="default.gif" FileType="WLL 文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="WM" IconFile="winmedia.gif" FileType="Windows Media 音频/视频文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="WMA" IconFile="winmedia.gif" FileType="Windows Media 音频文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="WMD" IconFile="winmedia.gif" FileType="Windows Media Player 下载软件包"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="WMF" IconFile="wmf.gif" FileType="WMF 图像"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="WMP" IconFile="winmedia.gif" FileType="Windows Media Player 文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="WMS" IconFile="winmedia.gif" FileType="Windows Media Player 外观文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="WMV" IconFile="winmedia.gif" FileType="Windows Media 音频/视频文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="WMX" IconFile="winmedia.gif" FileType="Windows Media 音频/视频快捷方式"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="WMZ" IconFile="winmedia.gif" FileType="Windows Media Player 外观程序包"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="WPS" IconFile="default.gif" FileType="WPS 文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="WRI" IconFile="default.gif" FileType="写入文档"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="WSC" IconFile="default.gif" FileType="Windows Script Component"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="WSF" IconFile="vbe.gif" FileType="Windows Script File"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="WSH" IconFile="wsh.gif" FileType="Windows Script Host Settings File"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="WTX" IconFile="default.gif" FileType="文本文档"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="WVX" IconFile="winmedia.gif" FileType="Windows Media 音频/视频快捷方式"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="XLA" IconFile="default.gif" FileType="Microsoft Excel 加载宏"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="XLB" IconFile="default.gif" FileType="Microsoft Excel 工作表"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="XLC" IconFile="default.gif" FileType="Microsoft Excel 图表"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="XLD" IconFile="default.gif" FileType="Microsoft Excel 5.0 对话框编辑表"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="XLK" IconFile="default.gif" FileType="Microsoft Excel 备份文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="XLL" IconFile="default.gif" FileType="Microsoft Excel XLL 加载宏"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="XLM" IconFile="default.gif" FileType="Microsoft Excel 4.0 宏"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="XLS" IconFile="xls.gif" FileType="Microsoft Excel 工作表"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="XLSHTML" IconFile="default.gif" FileType="Microsoft Excel HTML 文档"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="XLSMHTML" IconFile="default.gif" FileType="XLSMHTML 文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="XLT" IconFile="default.gif" FileType="Microsoft Excel 模板"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="XLTHTML" IconFile="default.gif" FileType="Microsoft Excel HTML 模板"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="XLV" IconFile="default.gif" FileType="Microsoft Excel VBA 模块"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="XLW" IconFile="default.gif" FileType="Microsoft Excel 工作区"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="XML" IconFile="xml.gif" FileType="XML 文档"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="XNK" IconFile="default.gif" FileType="Exchange 快捷方式"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="XSL" IconFile="xsl.gif" FileType="XSL 样式表"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="ZAP" IconFile="default.gif" FileType="软件安装设置"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="ZIP" IconFile="zip.gif" FileType="压缩(zipped)文件夹"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="ace" IconFile="rar.gif" FileType="WinRAR 档案文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="arj" IconFile="rar.gif" FileType="WinRAR 档案文件"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="ascx" IconFile="ascx.gif" FileType="ASP.NET Custom Control"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="aspx" IconFile="aspx.gif" FileType="ASP.NET Server Page"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="cs" IconFile="cs.gif" FileType="C# Source file"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="exe" IconFile="exe.gif" FileType="应用程序"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="psd" IconFile="psd.gif" FileType="Adobe Photoshop 图像"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="pub" IconFile="pub.gif" FileType="Microsoft Office Publisher 文档"></FileTypeIcon>
+	<FileTypeIcon ExtensionName="rar" IconFile="rar.gif" FileType="WinRAR 档案文件"></FileTypeIcon>
+</FileTypeIcons>

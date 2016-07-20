@@ -1,0 +1,41 @@
+﻿<html xmlns="http://www.w3.org/1999/xhtml" >
+	<head runat="server">
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<title>文本编辑框</title>
+		<meta http-equiv="expires" content="0" />
+		<link href="css/css.css" rel="stylesheet" type="text/css" />
+        <script language="javascript" type="text/javascript">
+// <!CDATA[
+function btnAccept_onclick()
+{
+    window.frameElement.Close(document.getElementById("textBox").value);
+    return false;
+}
+
+function OnLoad() {
+    var textBox = document.getElementById("textBox");
+    var text = window.parent.GetUriParameter(document.location.href, "text");
+    if (text)
+    {
+        textBox.value = text;
+    }
+    textBox.select();
+    textBox.focus();
+}
+
+// ]]>
+        </script>
+</head>
+	<body onload="OnLoad();">
+		<table id="Table1" style="width: 100%" cellspacing="0" cellpadding="0" border="0">
+			<tr>
+				<td style="padding-top: 10px; text-align: center;">
+                    <input id="textBox" type="text" style="width: 200px;" onkeydown="if(event.keyCode==13) return btnAccept_onclick();" /></td>
+			</tr>
+			<tr>
+				<td style="padding-top: 10px; text-align: center;"><input id="btnAccept" type="submit" 
+                        value=" 确 定 " onclick="return btnAccept_onclick()" /> <input id="btnCancel" type="button" value=" 取 消 " onclick="window.frameElement.Close(); return false;" /></td>
+			</tr>
+		</table>
+	</body>
+</html>
